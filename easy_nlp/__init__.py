@@ -23,8 +23,8 @@ class extract:
         doc = nlp(str)
         return [(ent.text , ent.label_) for ent in doc.ents]
 
-class dependency:
-    def dep_show(str):
+class display:
+    def show(str):
         doc = nlp(str)
         return displacy.serve(doc , style='ent')
 
