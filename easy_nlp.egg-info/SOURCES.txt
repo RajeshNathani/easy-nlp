@@ -1,0 +1,8 @@
+setup.py
+easy_nlp/__init__.py
+easy_nlp.egg-info/PKG-INFO
+easy_nlp.egg-info/SOURCES.txt
+easy_nlp.egg-info/dependency_links.txt
+easy_nlp.egg-info/not-zip-safe
+easy_nlp.egg-info/requires.txt
+easy_nlp.egg-info/top_level.txt
